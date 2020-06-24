@@ -1,0 +1,13 @@
+h1{
+    font: size 32;
+    margin-top: auto;
+}
+ul.a {
+    list-style-type: disc;
+}
+div.topnav{
+    margin: 50px;
+    width: 50px ;
+    padding: 2px;
+
+}
